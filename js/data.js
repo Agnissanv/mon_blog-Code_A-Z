@@ -2,7 +2,7 @@ const articles = {
     "youtube-tue-votre-carriere": {
         title: "YouTube tue votre carrière de développeur (et vous ne le savez même pas).",
         date: "12 Mars 2026",
-        image: "https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1031&auto=format&fit=crop",
+        image: "img/article1.png",
         content: `
             <p class="lead fw-bold">Il est 23h. Vous venez de terminer votre 5ème tutoriel de la journée.</p>
             
